@@ -1,0 +1,67 @@
+
+     @import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,600&family=Open+Sans&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@1,700&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Sono:wght@800&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+    .bg{
+        width:100%;
+        position:absolute;
+        left:0px;
+        z-index:-1;
+        opacity:0.8;
+     }
+    
+
+.navbar navbar-expand-lg{
+    background-Color: #e3f2fd;
+}
+
+/* .container-fluid{
+    font-family: 'Kanit', sans-serif;
+    text-decoration:none;
+    color:whitesmoke;
+    border-radius: 27px;
+    margin:0px;
+    padding:0px;
+    border-Width:5px;
+    border-Style:solid;
+    border-color:#62CDFF;
+
+} */
+.userContainer{
+    font-family:Kanit;
+    font-size: 1.5rem;
+
+}
+.horizontal-rule{
+    border-top: 5px solid rgb(0, 47, 255);
+    border-bottom:none;
+    width:40%;
+}
+.box{
+    margin:2% 10%;
+    padding:auto;
+    line-height:2;
+}
+.heading{
+    color: '#222831';
+    font-Size:2rem;
+    font-Weight: bold;
+    font-family: 'Comic Neue', cursive;
+    border-Width:3px;
+    border-Style:solid;
+    border-color:#FF0000;
+    padding:5% 10%;
+    
+}
+.hospital-heading{
+    font-family: 'Montserrat', sans-serif;
+    color: RED;
+    font-Weight:bold;
+}
+
+.card{
+    font-family: 'Montserrat', sans-serif;
+    margin:1% 5%;
+    padding:2% 8%;
+}
